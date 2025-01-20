@@ -35,6 +35,16 @@ const questions = [
         name: 'license',
         message: 'Does this need a specific license?'
     },
+    {
+        type: 'input',
+        name: 'features',
+        message: 'Any features that you are particularly proud of?'
+    },
+    {
+        type: 'input',
+        name: 'badges',
+        message: 'Any badges to display?'
+    },
 ];
 
 // TODO: Create a function to write README file
