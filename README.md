@@ -11,7 +11,7 @@
   7. [Badges](#badges)
 
   ## Description
-  Allows creators to make a professional README before their project starts
+  Allows coders to create a professional README quickly, to ensure they can put more time into their projects
 
   ## Installation
   npm install inquirer
@@ -20,13 +20,13 @@
   N/A
 
   ## Credits
-  When encountering errors, using Copilot to determine the exact error
+  When encountering errors, using Copilot to try to determine the exact error, or where the issue could be
 
   ## License
   N/A
   
   
-  
+
   ## Features
   N/A
 
