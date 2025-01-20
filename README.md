@@ -11,16 +11,17 @@
   7. [Badges](#badges)
 
   ## Description
-  Allows coders to create a professional README quickly, to ensure they can put more time into their projects
+  Allows coders to create a professional README quickly, to ensure they can put more time into their porjects
 
   ## Installation
   npm install inquirer
 
   ## Usage
-  N/A
+  Use node.js to create a README.md
+  Video on how to use application: https://drive.google.com/file/d/16ox0YeVCS5UC-6LUx35yBJW1g92Vmnr4/view
 
   ## Credits
-  When encountering errors, using Copilot to try to determine the exact error, or where the issue could be
+  When encountering errors, using Copilot to try to determine the exact error, or where the isue could be
 
   ## License
   N/A

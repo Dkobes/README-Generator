@@ -84,6 +84,7 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.usage}
+  Video on how to use application: https://drive.google.com/file/d/16ox0YeVCS5UC-6LUx35yBJW1g92Vmnr4/view
 
   ## Credits
   ${data.credits}
